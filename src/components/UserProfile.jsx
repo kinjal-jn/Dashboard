@@ -28,9 +28,9 @@ const UserProfile = () => {
           alt="user-profile"
         />
         <div>
-          <p className="font-semibold text-xl dark:text-gray-200"> Kinjal Jain </p>
+          <p className="font-semibold text-xl dark:text-gray-200"> Michael </p>
           <p className="text-gray-500 text-sm dark:text-gray-400">  Administrator   </p>
-          <p className="text-gray-500 text-sm font-semibold dark:text-gray-400"> kinjaljn2811@gmail.com </p>
+          <p className="text-gray-500 text-sm font-semibold dark:text-gray-400"> michael@gmail.com </p>
         </div>
       </div>
       <div>
