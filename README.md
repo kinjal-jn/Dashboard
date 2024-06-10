@@ -14,7 +14,6 @@ CSI Dashboard is a React-based admin dashboard application featuring customizabl
 
 1. Clone the repository:
    git clone https://github.com/your-username/csi-dashboard.git
-   cd csi-dashboard
 2. Install dependencies:
    npm install
 3. Start the development server:
